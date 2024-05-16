@@ -1,6 +1,6 @@
 # Hello, I'm Jay Desai! :wave:
 ## About Me :information_source:
-I'm currently an undergraduate student pursuing my degree in Information Technology at NLJIET. Passionate about coding and exploring new technologies, I'm currently interning at ThinkNovus Technologies, focusing on Back-End development in Python - Django.
+I'm currently an undergraduate student pursuing my degree in Information Technology at NLJIET. Passionate about coding and exploring new technologies, I'm currently interning at Nexalus Soft, focusing on Back-End development in Python - Django.
 ## Internship Experience :briefcase:
 Currently, I'm gaining hands-on experience with Python & Django technology at Nexalus Soft.
 ## Education :books:
