@@ -10,7 +10,7 @@ Currently, I'm gaining hands-on experience with Python & Django technology at Ne
 - In New LJ Institute of Engineering & Technology (GTU) 
 ## Skills :rocket:
 - **Programming Languages:** Python
-- **Technologies:** Django, MySQL
+- **Technologies:** Django, DRF, GitHub
 - **Other Skills:** Problem Solving, Team Collaboration
 ## Learning Journey :seedling:
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
